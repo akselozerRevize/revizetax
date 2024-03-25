@@ -1,0 +1,24 @@
+.App {
+  text-align: left;
+  background-color: #FFFFFF;
+}
+
+html, body {
+  background-color: #FFFFFF;
+}
+
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 12px;
+}
+
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background-color: rgb(53, 52, 52);
+}
+
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #787676; 
+}
+
